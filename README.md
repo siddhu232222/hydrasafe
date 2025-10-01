@@ -1,4 +1,4 @@
-# HydraSafe
+6# HydraSafe
 
 Components: 
 
@@ -52,7 +52,7 @@ We can use this same component for both cooling and heating :
 
 ![](Aspose.Words.2fc07456-589b-4ca0-904c-697831b12423.001.jpeg)
 
-Here is similar circuit where, Peltier module is replaced with two Led's  
+Here is sample circuit where, Peltier module is replaced with two Led's  
 ![Aspose Words 2fc07456-589b-4ca0-904c-697831b12423 003](https://github.com/user-attachments/assets/40af8b32-dec6-4544-aefb-9baf81374fa4)
 ![Aspose Words 2fc07456-589b-4ca0-904c-697831b12423 002](https://github.com/user-attachments/assets/a18a921b-ccc5-46ee-a7db-8f7f96b52586)
 

@@ -6,7 +6,6 @@ Components:
 - Arduino Uno or Mega (or Raspberry Pi 4 for advanced features) 
 - **Temperature Sensors** : 
 - DHT22/AM2302 (for outdoor temperature and humidity) 
-- DS18B20 Waterproof Sensor (for water temperature) 
 - **Cooling/Heating Module** : 
 - Peltier Module (TEC1-12706) 
 - **Proximity Sensor** : 
@@ -14,11 +13,6 @@ Components:
 - **Alert System**
 - Active Buzzer 
 - RGB LED or LED Strip 
-- **Water Pump**  
-- Mini Submersible DC Pump (3-5V) 
-- **Water Filter**  
-- Activated Carbon Filter Cartridge 
-- Filter Housing 
 - **Power Supply**  
 - 12V 5A Power Adapter (for Peltier and pump) 
 - 5V USB Power Bank or Adapter (for microcontroller and sensors) 
@@ -28,7 +22,6 @@ Components:
 - Push Button or Touch Sensor 
 - Breadboard 
 - Jumper Wires 
-- Enclosure (for housing the system) 
 
 Project Objectives: 
 

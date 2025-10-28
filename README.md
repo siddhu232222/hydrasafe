@@ -14,7 +14,7 @@ Components:
 - Active Buzzer 
 - RGB LED or LED Strip 
 - **Power Supply**  
-- 12V 5A Power Adapter (for Peltier and pump) 
+- 12V 5A Power Adapter (for Peltier ) 
 - 5V USB Power Bank or Adapter (for microcontroller and sensors) 
 - **Miscellaneous** : 
 - Water Reservoir/Tank (1-2L capacity) 

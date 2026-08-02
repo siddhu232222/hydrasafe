@@ -2,6 +2,10 @@
 
 A fully automatic, energy-efficient system that keeps your drinking water at the perfect temperature (15–45 °C) all year round — no buttons, no displays, no manual switching.
 
+<p align="center">
+  <img src="product.jpeg" alt="HydraSafe Project Prototype" width="300px">
+</p>
+
 ### Detailed Working Principle (Step-by-Step)
 
 1. **System Startup**  
@@ -36,7 +40,7 @@ A fully automatic, energy-efficient system that keeps your drinking water at the
 
 ### Components List
 - Arduino Nano (brain)  
--  TEC1-12706 Peltier modules (heating + cooling element)  
+- TEC1-12706 Peltier modules (heating + cooling element)  
 - Large aluminium heat sinks + 12 V cooling fans  
 - BTS7960 high-current dual H-bridge driver  
 - DS18B20 waterproof temperature sensors (water temperature)  
